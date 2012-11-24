@@ -1,0 +1,3 @@
+These are the authors for the Oberon-2 Bison grammar and Flex definition files:
+
+ - Paulo Pinto

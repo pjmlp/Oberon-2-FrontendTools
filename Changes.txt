@@ -1,0 +1,4 @@
+======== V 0.0.1 Release was released ===========================
+
+1998-01-29 (first release) : Made the files available on my own web site. (Paulo Pinto)
+2012-11-24 (second release): Pushed the files into GitHub. (Paulo Pinto)
